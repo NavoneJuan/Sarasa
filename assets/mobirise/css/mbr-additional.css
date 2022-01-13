@@ -1263,9 +1263,35 @@ a {
 .cid-sxKvrJqMKP .user_desk {
   color: #ffffff;
 }
+.cid-sUpy2omroe {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-image: url("../../../assets/images/fondito-1200x292.jpg");
+}
+.cid-sUpy2omroe .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sUpy2omroe .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-sUpy2omroe .card-title,
+.cid-sUpy2omroe .card-box {
+  color: #ffffff;
+}
 .cid-sxKlpbbLUP {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/fondito-1200x292.jpg");
   overflow: hidden;
 }
@@ -1397,7 +1423,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sTMJhHHut3 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 5rem);
   }
 }
 .cid-sTMJhHHut3 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1547,7 +1573,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #9fdbf8;
+  background-color: #ffffff;
 }
 .cid-sTMJhHHut3 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1825,9 +1851,35 @@ a {
 .cid-sTMJhJTXpH .user_desk {
   color: #ffffff;
 }
+.cid-sUpznUmUNn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-image: url("../../../assets/images/fondito-1200x292.jpg");
+}
+.cid-sUpznUmUNn .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sUpznUmUNn .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-sUpznUmUNn .card-title,
+.cid-sUpznUmUNn .card-box {
+  color: #ffffff;
+}
 .cid-sTMJhKCf4W {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/fondito-1200x292.jpg");
   overflow: hidden;
 }
